@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "411846309640",
+    "project_id": "chatgpt-c48f4",
+    "storage_bucket": "chatgpt-c48f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411846309640:android:6ed1252194b441e3e49ebd",
+        "android_client_info": {
+          "package_name": "com.sanjai.chat_application2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "411846309640-si26cept6pguqag2euifa8nnat3hkckp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyW8ZqfbhmilD8Q4KeVV1kVXMu6b8rQ74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "411846309640-si26cept6pguqag2euifa8nnat3hkckp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
